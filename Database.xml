@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<Category Name="web" />
+<Category Name=".NET" />
+<Category Name="java" />
+<Category Name="qwqeqw" />
+<Vacancy>
+	<Name Name="a" />
+	<Description Description="a" />
+	<NameFirmEmployer NameFirmEmployer="a" />
+	<Date Date="9.12.2014" />
+</Vacancy>
+<Vacancy>
+	<Name Name="b" />
+	<Description Description="b" />
+	<NameFirmEmployer NameFirmEmployer="b" />
+	<Date Date="9.12.2014" />
+</Vacancy>
+<Vacancy>
+	<Name Name="c" />
+	<Description Description="c" />
+	<NameFirmEmployer NameFirmEmployer="c" />
+	<Date Date="9.12.2014" />
+</Vacancy>
+<Vacancy>
+	<Name Name="f" />
+	<Description Description="f" />
+	<NameFirmEmployer NameFirmEmployer="f" />
+	<Date Date="9.12.2014" />
+</Vacancy>
+<Vacancy>
+	<Name Name="z" />
+	<Description Description="z" />
+	<NameFirmEmployer NameFirmEmployer="z" />
+	<Date Date="9.12.2014" />
+</Vacancy>
+<Resume>
+	<Name Name="web" />
+	<Description Description="web" />
+	<NameUnemployed NameUnemmployed="" />
+	<Date Date="7.12.2014" />
+</Resume>
+<Resume>
+	<Name Name=".net" />
+	<Description Description=".net" />
+	<NameUnemployed NameUnemmployed="" />
+	<Date Date="7.12.2014" />
+</Resume>
+<Resume>
+	<Name Name="java" />
+	<Description Description="java" />
+	<NameUnemployed NameUnemmployed="" />
+	<Date Date="7.12.2014" />
+</Resume>
+<Unemployed Name="java" Surname="" />
+<Unemployed Name="qwer" Surname="" />
+<Unemployed Name="Bogdan" Surname="" />
+<Unemployed Name=".net" Surname="" />
+<Firm>
+	<Name Name="web" />
+	<Description Description="web" />
+	<VacancyCount VacancyCount="3" />
+	<Number Number="1" />
+</Firm>
+<Firm>
+	<Name Name=".net" />
+	<Description Description=".net" />
+	<VacancyCount VacancyCount="3" />
+	<Number Number="2" />
+</Firm>
+<Firm>
+	<Name Name=".net" />
+	<Description Description="java" />
+	<VacancyCount VacancyCount="3" />
+	<Number Number="4" />
+</Firm>
+<Firm>
+	<Name Name="java" />
+	<Description Description="java" />
+	<VacancyCount VacancyCount="4" />
+	<Number Number="3" />
+</Firm>
+<Firm>
+	<Name Name="qwer" />
+	<Description Description="qwwr" />
+	<VacancyCount VacancyCount="5" />
+	<Number Number="12" />
+</Firm>
+<Hiring>
+	<Date Date="7.12.2014" />
+	<NameUnemployed NameUnemployed="" />
+	<SurnameUnemployed SurnameUnemployed="" />
+	<Vacancy Vacancy="web" />
+	<NameFirmEmployer NameFirmEmployer="web" />
+</Hiring>
+<Hiring>
+	<Date Date="8.12.2014" />
+	<NameUnemployed NameUnemployed="" />
+	<SurnameUnemployed SurnameUnemployed="" />
+	<Vacancy Vacancy="java" />
+	<NameFirmEmployer NameFirmEmployer=".net" />
+</Hiring>
